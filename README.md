@@ -1,2 +1,18 @@
-# Projeto4-EGWeb_Cria-o_de_sites
-Repositório do site oficial da EGWeb. Plataforma desenvolvida para apresentar serviços de desenvolvimento web, portfólios digitais e soluções personalizadas para fortalecer a presença online de negócios.
+# EGWeb
+
+Site institucional da EGWeb, desenvolvido para apresentar serviços de criação de sites, portfólios e soluções digitais.
+
+## 🚀 Tecnologias
+- HTML5
+- CSS3
+- JavaScript
+
+## 🌐 Site
+https://egweb.com.br
+
+## 📱 Contato
+WhatsApp: (seu número)
+Instagram: @sites_egweb
+
+## 📄 Sobre
+A EGWeb desenvolve sites modernos, responsivos e otimizados para ajudar empresas e profissionais a fortalecerem sua presença online.
