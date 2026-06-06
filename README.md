@@ -8,7 +8,7 @@ Site institucional da EGWeb, desenvolvido para apresentar serviços de criação
 - JavaScript
 
 ## 🌐 Site
-https://egweb.com.br
+https://egwebdigital.com
 
 ## 📱 Contato
 WhatsApp: (seu número)
